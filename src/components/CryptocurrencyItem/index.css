@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.currency-name {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.logo-image {
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+  margin-right: 8px;
+}
+
+.item-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  margin-left: 0px;
+}

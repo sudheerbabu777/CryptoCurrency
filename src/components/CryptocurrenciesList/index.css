@@ -1,0 +1,44 @@
+/* Write your CSS code here */
+.crypto-current-list {
+  border: 2px solid #00e7ff;
+  width: 700px;
+}
+
+.type-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #092e33;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.coin {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.usd-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 200px;
+}
+
+.usd {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  color: #ffffff;
+  margin-right: 40px;
+}
+
+.euro {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  color: #ffffff;
+  margin-left: 40px;
+}
